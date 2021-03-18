@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- i'm software engineer
+- interested in coding
+- familiar with Java, Spring
+
 <!--
 **delta-riot/delta-riot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
